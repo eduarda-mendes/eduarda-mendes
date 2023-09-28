@@ -1,16 +1,19 @@
-### Hi there 👋
+### boas vindas ao meu perfil 👋
 
-<!--
-**eduarda-mendes/eduarda-mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**neu nome é eduarda mais podem me chamar de duda**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou estudando mo aluna 
+-e estou me desenvolvendo nos curso 
+
+**meus robis**
+
+-amo jogar bola 
+-desenhar 
+-e jogar volei 
+
+**entrar em contato comido por email**
+_@eduardadadudade.gmail.com.br_
+
+
+![image](https://github.com/eduarda-mendes/eduarda-mendes/assets/135329214/5c101664-b432-45d1-ad6d-4c05e15ff3c5)
